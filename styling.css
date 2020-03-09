@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(163, 195, 245);
+    background-color: #fea49f;
 }
 
 h1 {
@@ -9,5 +9,13 @@ h1 {
 
 p {
     font-family: verdana;
-    font-size: 20px;
+    font-size: 18px;
 }
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+  }
+  
